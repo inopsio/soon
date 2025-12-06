@@ -23,7 +23,7 @@ const faqs: FAQItem[] = [
   {
     question: "What makes Inopsio different?",
     answer:
-      "Unlike fragmented point solutions, Inopsio offers true unification: single-pane visibility across IT and OT, white-label capabilities for MSSPs, passive-first OT scanning that won't crash your PLCs, and cell architecture for true data residency compliance.",
+      "Unlike fragmented point solutions, Inopsio offers true unification: single-pane visibility across IT and OT, secure multi-tenant architecture for MSSPs, passive-first OT scanning that won't crash your PLCs, and cell architecture for true data residency compliance.",
   },
   {
     question: "Is Inopsio suitable for my industry?",
@@ -36,9 +36,9 @@ const faqs: FAQItem[] = [
       "Absolutely! We're offering exclusive early access demos to select organizations. Sign up with your email, and our team will reach out to schedule a personalized walkthrough.",
   },
   {
-    question: "What is white-label capability?",
+    question: "What is multi-tenant capability?",
     answer:
-      "MSSPs can fully rebrand Inopsio as their own product - custom logos, colors, domain names, and more. You provide the service, we provide the technology. It's your brand, our platform.",
+      "Inopsio features a secure multi-tenant architecture designed for MSSPs and enterprises. Each tenant operates in complete isolation with dedicated resources, custom branding, and independent data storage, while sharing the same robust infrastructure. You provide the service, we provide the technology.",
   },
 ];
 
